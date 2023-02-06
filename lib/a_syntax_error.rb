@@ -1,3 +1,6 @@
 x = 1
 
-x = 
+#error below
+#x =
+
+x = 1
